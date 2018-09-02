@@ -21,7 +21,7 @@ Neural Networks (Multilayer perceptron) 【神经网络】
 
 常见的算法有：
 
-Clustering【聚类算法】 
+Clustering【聚类算法】  
 k-means【K均值聚类】  
 Expectation–maximization algorithm 【EM算法】 
 
