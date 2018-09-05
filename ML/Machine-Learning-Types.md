@@ -1,8 +1,6 @@
-## 机器学习的类型
+# 机器学习的类型
 
-
-
-### 1. Supervised Learning【监督学习】
+## 1. Supervised Learning【监督学习】
 
 最常用的监督学习算法有：  
 
@@ -17,22 +15,16 @@ Neural Networks (Multilayer perceptron) 【神经网络】
 
 等等...
 
-### 2. Unsupervised Learning 【非监督学习】
+## 2. Unsupervised Learning 【非监督学习】
 
 常见的算法有：
 
 Clustering【聚类算法】  
 k-means【K均值聚类】  
-Expectation–maximization algorithm 【EM算法】 
+Expectation–maximization algorithm 【EM算法】
 
-### 3. Semi-supervised Learning 【半监督学习】
+## 3. Semi-supervised Learning 【半监督学习】
 
-
-
-### 4. Reinforcement Learning 【强化学习】
-
-
-
-
+## 4. Reinforcement Learning 【强化学习】
 
 后面两个先不做了解，等学到了再补充...

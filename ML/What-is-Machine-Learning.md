@@ -1,4 +1,4 @@
-## 什么是机器学习？
+# 什么是机器学习？
 
 1. `the field of study that gives computers the ability to learn without being explicitly programmed.---Arthur Samuel`
 
@@ -16,12 +16,8 @@
 
    引用自 [AI Adventures（需要梯子）](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2&index=1)  
 
-5. `
-     Machine learning is a field of computer science that uses statistical techniques to give computer systems the ability to "learn" (e.g., progressively improve performance on a specific task) with data, without being explicitly programmed.`
+5. `Machine learning is a field of computer science that uses statistical techniques to give computer systems the ability to "learn" (e.g., progressively improve performance on a specific task) with data, without being explicitly programmed.`
 
      引用自 [维基百科](https://en.wikipedia.org/wiki/Machine_learning)  
-
-
-
 
 由于硬件的发展，现在机器学习的实现已经不像以前那么困难了，所以现在是学习机器学习最好的时代。
