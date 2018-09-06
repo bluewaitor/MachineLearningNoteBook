@@ -12,7 +12,7 @@
 - 损失函数
 - 梯度下降
 - Normal Equation
-- [线性回归](./ML/Linear-Regression.md)
+- [线性回归](./ML/Linear-Regression.ipynb)
 - 分类回归
 
 ## 线性代数
