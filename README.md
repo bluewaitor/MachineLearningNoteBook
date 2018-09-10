@@ -4,7 +4,7 @@
 
 ## 机器学习
 
-- [什么是机器学习？](./ML/What-is-Machine-Learning.md) 
+- [什么是机器学习？](./ML/What-is-Machine-Learning.md)
 - [机器学习分类](./ML/Machine-Learning-Types.md)
 - [机器学习步骤](./ML/Machine-Learning-Steps.md)
 - 监督学习
